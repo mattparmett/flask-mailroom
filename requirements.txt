@@ -10,7 +10,6 @@ ipython-genutils==0.2.0
 isort==5.7.0
 jedi==0.17.2
 lazy-object-proxy==1.4.3
--e git+https://github.com/UWPCE-Py310-Fall2020/mailroom-everything-mattparmett.git@057ac98788296838bf8df8b45f4e698febc252c1#egg=Mailroom&subdirectory=mailroom
 mccabe==0.6.1
 parso==0.7.1
 pexpect==4.8.0
